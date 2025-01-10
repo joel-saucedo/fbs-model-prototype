@@ -95,11 +95,6 @@ This approach is based on research literature, with additional resources provide
    -I$(python -c "import numpy; print(numpy.get_include())")
    ```
 
-### Refrences
-
-- This prototype is based on fractional Black-Scholes literature (see docs/ for more information).
-- Key concepts include Caputo fractional derivatives and finite difference methods for solving time-fractional PDEs.
-
 ### License
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
