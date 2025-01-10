@@ -1,0 +1,11 @@
+# Build files
+*.o
+*.so
+*.dll
+*.exe
+*.dSYM/
+*.stackdump
+
+# Python caches
+__pycache__/
+*.py[cod]
